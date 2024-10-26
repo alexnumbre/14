@@ -8,5 +8,5 @@ analyze_sizes() {
     du -sh * | sort -hr
 }
 
-# Основная программа
+# Основная прfограмма
 analyze_sizes
